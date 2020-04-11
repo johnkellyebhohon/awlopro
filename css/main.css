@@ -1,6 +1,27 @@
 .container {
   border: 1px solid red;
+  /* height: 640px; */
+  /* margin: 10% auto; */
 }
 .a1 {
   border: 1px solid green;
+}
+
+.container {
+  height: 620px;
+  display: flex;
+  border: 1px solid yellow;
+}
+
+.container .mainwrapper {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.container .mainwrapper form {
+  padding: 30px 10px 30px 10px;
+}
+
+.container .mainwrapper img {
+  /* padding: 30px; */
 }
