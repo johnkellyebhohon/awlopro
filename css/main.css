@@ -1,10 +1,7 @@
-.a1 {
-  border: 1px solid #d7d7d7;
-  border-radius: 5px;
-}
 body {
   background-color: #faf7f7;
 }
+
 .container .mainwrapper form {
   padding: 30px 10px 30px 10px;
 }
@@ -12,9 +9,11 @@ body {
 .container .mainwrapper .img_col {
   margin-bottom: 15px;
 }
+
 .container .mainwrapper img {
   padding: 20px 0px 20px 0px;
 }
+
 .container .mainwrapper {
   padding: 15px;
   /* border: 2px solid rgb(23, 162, 184); */
@@ -22,9 +21,19 @@ body {
   box-shadow: 0px 0px 5px rgb(23, 162, 184, 0.5);
   border-radius: 5px;
 }
+
 .container {
   height: 600px;
   display: flex;
+}
+
+#conti1 {
+  height: 1030px;
+}
+
+.a1 {
+  border: 1px solid #d7d7d7;
+  border-radius: 5px;
 }
 
 #a1hash {
@@ -33,12 +42,18 @@ body {
   padding: 10px 0px 10px 0px;
 }
 
+.h3head {
+  color: grey;
+}
+
 #btnklo {
   background-color: #96750b;
 }
+
 .nav-item:hover {
   color: rgb(219, 208, 208);
 }
+
 /* .navbar a {
   color: white;
 } */
@@ -46,13 +61,34 @@ body {
 .navbar-light .navbar-nav .nav-link {
   color: rgb(250, 245, 245);
 }
+
 .navbar-light:hover .navbar-nav:hover .nav-link:hover {
   color: grey;
 }
+
 .navbar-brand img {
   box-shadow: 0px 0px 10px grey;
   border-radius: 20px;
 }
+
 #nav-toggle-button {
   background-color: rgb(116, 115, 115);
+}
+
+#regIt a,
+#forGot a {
+  color: #007bff;
+  /* text-decoration: none; */
+}
+
+#regIt a:hover,
+#forGot a:hover {
+  color: rgb(10, 135, 155);
+  text-decoration: none;
+}
+
+/* REGISTER CSS */
+
+#filo1 {
+  margin-bottom: 15px;
 }
