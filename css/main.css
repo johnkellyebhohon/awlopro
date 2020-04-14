@@ -31,6 +31,10 @@ body {
   height: 1030px;
 }
 
+#lostPassP {
+  height: 700px;
+}
+
 .a1 {
   border: 1px solid #d7d7d7;
   border-radius: 5px;
@@ -92,3 +96,6 @@ body {
 #filo1 {
   margin-bottom: 15px;
 }
+
+/* LOSTPASSWORD
+ */
