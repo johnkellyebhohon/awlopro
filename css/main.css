@@ -99,3 +99,20 @@ body {
 
 /* LOSTPASSWORD
  */
+
+/* ADMIN
+  */
+
+.clod {
+  border: 1px double grey;
+  padding: 20px;
+  background: white;
+}
+
+#adminimg img {
+  /* padding: 10px 10px 20px 10px; */
+  /* border-radius: 200px; */
+  /* box-shadow: 0px 0px 10px #e7e7e7; */
+  margin-bottom: 10px;
+
+}
